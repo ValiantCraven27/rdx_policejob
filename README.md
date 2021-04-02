@@ -1,4 +1,4 @@
-# redemrp_policejob
+# rdx_policejob
 Simple/basic police system made for RedM_Extended
 
 # Installation
