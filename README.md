@@ -12,6 +12,7 @@ Simple/basic police system made for RedM_Extended
 
 # Required resource
 - RedM_Extended
+- pNotify
 
 # Made by
 - CryptoGenics
