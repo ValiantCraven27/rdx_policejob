@@ -5,7 +5,7 @@ Simple/basic police system made for RedM/Redem_roleplay
 1. Clone this repository.
 2. Extract the zip.
 3. Put redm_extended to your resource folder.
-4. Add "start redemrp_policejob" in your "server.cfg".
+4. Add "start redm_extended" in your "server.cfg".
 5. Set your job to police
 5. Profit
 
