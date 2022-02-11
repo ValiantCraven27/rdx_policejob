@@ -1,6 +1,11 @@
 # rdx_policejob
 Simple/basic police system made for RedM/Redem_roleplay
 
+Set job to lawman
+
+/duty to go on duty
+/leo for menu
+
 # Installation
 1. Clone this repository.
 2. Extract the zip.
