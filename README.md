@@ -20,3 +20,5 @@ Set job to lawman
 # Made by
 - CryptoGenics
 - Some implementations borrowed from https://github.com/ESX-Org/esx_policejob
+- pNotify required
+-
